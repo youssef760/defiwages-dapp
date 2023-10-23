@@ -13,7 +13,7 @@ Install these prerequisites to follow along with the tutorial. See free video tu
 
 
 ## Step 1. Clone the project
-`git clone https://github.com/Daltonic/tailwind_ethers_starter_kit <PROJECT NAME>`
+`git clone https://github.com/youssef760/defiwages-dapp.git <PROJECT NAME>`
 
 ## Step 2. Install dependencies
 ```sh
@@ -29,4 +29,5 @@ $ yarn hardhat node
 ## Step 4. Run the Front End Application
 `$ yarn start`
 Visit this URL in your browser: http://localhost:3000
+vist dapp live demo: https://defiwages-dapp.vercel.app/
 
